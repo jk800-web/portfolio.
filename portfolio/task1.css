@@ -1,0 +1,210 @@
+
+*{
+    background-color: rgb(0, 0, 0);
+    -webkit-text-fill-color: white;
+    justify-content: space-between;
+    
+
+}
+
+
+.a1{
+
+    
+    font-family: 'Times New Roman', Times, serif ;
+    -webkit-text-fill-color: white;
+    
+    border: 2px solid white;
+     justify-content: space-between;
+     border-left-color: rgb(10, 10, 10); 
+     border-right-color: rgb(12, 12, 12); 
+     text-decoration: underline solid red;
+     text-align: left;
+     padding-left: 8%;
+
+
+
+   }
+
+   .no{
+
+    text-decoration: underline solid red;
+   }
+
+   .a2{
+
+    display: flex;
+    align-items: 500px;
+    border: 2px solid rgb(250, 247, 247);
+    border-left: black;
+    border-right:black;
+    
+   }
+   
+.m1{
+    flex: 1;
+    padding: 110px;
+    text-align: 20px;
+    
+
+
+}
+.m2{
+
+    width:100%;
+    height: 100%;
+    border-radius: 100%;
+   
+    
+    background-size: cover;
+    
+}
+
+
+
+
+.m3{
+    
+
+    text-align: left;
+    text-decoration: underline red;
+    border: solid 2px white;
+    border-left: solid black;
+    border-right: solid black;
+    border-top: solid black;
+    padding-bottom: 3%;
+    padding-left: 8%;
+}
+.detail  {
+
+    
+    
+       text-align: center;
+    border-collapse: collapse;
+    width: 84%;
+    border-radius: 10px;
+    padding: 110px;
+    text-align: center;
+    border: 2px solid white;
+    border-left: solid black;
+    border-right: solid black;
+    border-top: solid black;
+    
+
+    
+ 
+
+
+}
+.detail td{
+    width: 50%;
+    border: 1px solid white;
+    padding: 8px;
+    margin-left: 100px;
+
+    
+}
+
+.my{
+    text-decoration: underline red;
+    border: 2px solid white;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+    padding-left: 8%;
+}
+.education{
+
+    text-align: center;
+    border-collapse: collapse;
+    width: 84%;
+    border-radius: 10px;
+    padding: 110px;
+    text-align: center;
+    border: 2px solid white;
+    border-left: solid black;
+    border-right: solid black;
+    border-top: solid black;
+    
+
+}
+.education td{
+
+    width: 50%;
+    border: 1px solid white;
+    padding: 8px;
+    margin-left: 100px;
+
+}
+.s1{
+
+    text-decoration: underline red;
+    padding-left: 8%;
+    border: 2px solid white;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+}
+.skill{
+    padding-top: 10%;
+    padding-left: 8%;
+    padding-bottom: 5%;
+    border-bottom: 2px solid white;
+
+}
+.skill td {
+
+    
+    
+    
+    width: 50%;
+    border: 1px solid white;
+    padding: 8px;
+    margin-left: 100px;
+    
+   padding-top: 10%;
+    
+   
+}
+
+.p1{
+    text-decoration: underline red;
+    padding-left: 8%;
+    
+
+    border: 2px solid white;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+
+}
+.project{
+    padding-top: 10%;
+    padding-left: 8%;
+    border-bottom: 2px solid white;
+    padding-bottom: 10%;
+}
+.project td{
+
+    width: 50%;
+    border: 1px solid white;
+    padding: 8px;
+    margin-left: 100px;
+    
+   padding-top: 10%;
+    
+}
+.r1{
+
+    border: 2px solid white;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+    padding-left: 8%;
+    text-decoration: underline red;
+}
+.resume img{
+    padding-left: 8%;
+    width: 80%;
+    padding-top: 10%;
+}
